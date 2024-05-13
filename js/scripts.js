@@ -48,7 +48,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
   });
 });
 
-const txtElement = ["I'm Backend Developer"];
+const txtElement = ["Web Developer | Back End Developer | Laravel Developer | Database Administrator"];
 let count = 0;
 let txtIndex = 0;
 let currentTxt = "";
